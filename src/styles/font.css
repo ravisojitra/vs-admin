@@ -1,0 +1,8 @@
+
+ @font-face { font-style : bold; src: url("assets/fonts/dmsansbold700.ttf"); font-family : "DM Sans"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/poppinssemibold600.ttf"); font-family : "Poppins"; font-weight : 600;  }
+ @font-face { font-style : bold; src: url("assets/fonts/dmsansmedium500.ttf"); font-family : "DM Sans"; font-weight : 500;  }
+ @font-face { font-style : normal; src: url("assets/fonts/dmsansregular400.ttf"); font-family : "DM Sans"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/poppinsmedium500.ttf"); font-family : "Poppins"; font-weight : 500;  }
+ @font-face { font-style : bold; src: url("assets/fonts/poppinsbold700.ttf"); font-family : "Poppins"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/poppinsregular400.ttf"); font-family : "Poppins"; font-weight : 400;  }
